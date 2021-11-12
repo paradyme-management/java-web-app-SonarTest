@@ -58,6 +58,6 @@
                          <artifactId>maven-surefire-plugin</artifactId>
                      </plugin>
              </plugins>
-        <build>
+        </build>
 
 </project>
